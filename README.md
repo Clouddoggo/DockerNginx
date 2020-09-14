@@ -7,7 +7,7 @@
 `cd OTOT-Task-a`
  
 ### 3. Build the image and tag it with any tag you want. In this example, the tag 3219-task-a is used.
- `docker build -t clouddoggo/cs3219-task-a .`
+ `docker build -t cs3219-task-a .`
  
 ### 4. Run the image with a name, and expose port number 80. In this example, the name 3219-task-a is used.
  `docker run --name 3219-task-a -p 80:80 --rm 3219-task-a`
