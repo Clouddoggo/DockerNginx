@@ -13,3 +13,5 @@
  `docker run --name 3219-task-a -p 80:80 --rm 3219-task-a`
  
 ### 5. Go to http://localhost or http://localhost:80. The contents of the file `index.html` should be rendered
+
+### 6. To stop the container, run `ctrl + c`
