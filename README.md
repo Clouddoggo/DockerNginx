@@ -1,10 +1,10 @@
 # Instructions to run
 
 ### 1. Clone this repository
- `git clone https://github.com/Clouddoggo/OTOT-Task-A.git`
+ `git clone https://github.com/Clouddoggo/DockerNginx.git`
  
 ### 2. Go into the cloned directory
-`cd OTOT-Task-a`
+`cd DockerNginx`
  
 ### 3. Build the image and tag it with any tag you want. In this example, the tag 3219-task-a is used.
  `docker build -t cs3219-task-a .`
